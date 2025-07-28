@@ -1,0 +1,16 @@
+{
+  "name": "marketing-strategy-generator",
+  "version": "1.0.0",
+  "description": "מחולל אסטרטגיות שיווק עם Claude AI",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'Build complete'",
+    "start": "echo 'Start complete'"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": "18.x"
+  }
+}
